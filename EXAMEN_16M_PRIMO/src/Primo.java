@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Primo {
 	
 	public static void main (String[]arg){
-		System.out.println("Buenos días Ceinmark, soy Miguel Serna");
+		System.out.println("Buenos días, Ceinmark, soy Miguel Serna");
 		
 		  Scanner teclado = new Scanner(System.in);	
 	        boolean primo=true;
